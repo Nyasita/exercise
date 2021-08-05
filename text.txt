@@ -1,3 +1,5 @@
 
 This is a file for the exercise
 I am ready for this
+
+learnt git checkout -b for new branches
